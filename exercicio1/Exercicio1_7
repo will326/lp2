@@ -1,0 +1,9 @@
+Variável 3 = 7
+Variável 4 = 10.5
+Variável 5 = 10
+
+Variável 4 é maior que a 10.0
+Variável 4 é menor igual que a 10.0
+
+Os três primeiros prints imprime os valores das variaveis 3, 4 e 5.
+mais embaixo no código tinha duas condições de "if", onde a primeira deu falso e então pulou para else imprimindo o que estava escrito nele. Já no segundo "if" a condição deu verdadeira. 
