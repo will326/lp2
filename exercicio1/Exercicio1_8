@@ -1,0 +1,2 @@
+No primeiro caso tem um ponto e vírgula " if (c < 7 ) ; ", deveria tirar esse ponto e vírgula ficando " if (c < 7 )  ".
+No segundo caso a condição esta => sendo que o certo é >=
