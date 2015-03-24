@@ -1,0 +1,2 @@
+A palavra-chave new é usada para instanciar um objeto. Quando essa palavra-chave é usada é criado um novo objeto e é
+alocado um espaço na memória do código para o novo objeto criado.
