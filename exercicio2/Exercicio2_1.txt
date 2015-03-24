@@ -1,0 +1,10 @@
+Tipo Abstrato de Dados - É um modelo que encapsula um modelo de dados e um conjunto de procedimentos que atuam com
+exclusividade sobre os dados encapsulados. 
+
+Classe -  É um Tipo Abstrato de Dados, ela define características ao objeto e não ocupa memória no código, então é uma 
+forma abstrata de alguma coisa real.
+
+Objeto - O objeto é a instancia de uma classe, é a materialização da classe ( da vida as definiçoes atribuidas pela 
+classe ), ele sim ocupa memória na copilação do código.
+
+Mensagens - São blocos de código que pertencem a uma classe e tem por finalidade realizar uma tarefa. 
