@@ -31,8 +31,8 @@ public class Aluno {
              cb4.numeroMatricula = "444";
              cb4.idade = 16;
              
-             cb1.imprimirDadosCadastrais();
-             cb2.imprimirDadosCadastrais();
-             cb3.imprimirDadosCadastrais();
-             cb4.imprimirDadosCadastrais();
+             	cb1.imprimirDadosCadastrais();
+             	cb2.imprimirDadosCadastrais();
+             	cb3.imprimirDadosCadastrais();
+             	cb4.imprimirDadosCadastrais();
        }
