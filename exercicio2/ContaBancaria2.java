@@ -26,6 +26,8 @@ public class ContaBancaria2 {
 	
 	public static void main(String [] args){
 		ContaBancaria2 cb1 = new ContaBancaria2();
+		ContaBancaria2 cb2 = new ContaBancaria2();
+		
 		cb1.agencia = 3610;
 		cb1.contaCorrente = 15766;
 		cb1.saldo = 35.54;
@@ -37,6 +39,18 @@ public class ContaBancaria2 {
 		cb1.imprimirContaCorrente();
 		cb1.imprimirSaldo();
 		cb1.imprimirSaldoTotal();
+		
+		cb2.agencia = 3610;
+		cb2.contaCorrente = 15766;
+		cb2.saldo = 35.54;
+		cb2.limiteExtra = 50;
+		cb2.titularConta = "Teles";		
+		
+		cb2.imprimirTitular();
+		cb2.imprimirAgencia();
+		cb2.imprimirContaCorrente();
+		cb2.imprimirSaldo();
+		cb2.imprimirSaldoTotal();
 		
 	
 	}
